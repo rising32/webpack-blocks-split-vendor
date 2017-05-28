@@ -70,7 +70,3 @@ Type: {name: [string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Re
 
 -   [`webpack-blocks-happypack`](https://github.com/diegohaz/webpack-blocks-happypack)
 -   [`webpack-blocks-server-source-map`](https://github.com/diegohaz/webpack-blocks-server-source-map)
-
-## License
-
-MIT © [Diego Haz](https://github.com/diegohaz)
